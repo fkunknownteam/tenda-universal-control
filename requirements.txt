@@ -1,0 +1,3 @@
+# Optional: required only for decrypting AES-era goform responses.
+# All core functions work without it (JSON/plaintext firmware).
+pycryptodome>=3.19
